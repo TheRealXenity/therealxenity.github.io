@@ -1,0 +1,9 @@
+[submodule "enabler"]
+	path = enabler
+	url = https://github.com/LBPUnion/ps3hen-enablehen
+[submodule "alternate-installer"]
+	path = alternate-installer
+	url = https://github.com/LBPUnion/ps3hen-alternate
+[submodule "installer"]
+	path = installer
+	url = https://github.com/LBPUnion/ps3hen-hen_installer
